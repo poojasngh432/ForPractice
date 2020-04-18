@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        num = 2;
+        num = 4;
         text = "This is master branch";
 
         //first change
